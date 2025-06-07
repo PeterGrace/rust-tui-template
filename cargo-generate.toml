@@ -1,2 +1,2 @@
 [template]
-exclude = [ "target*" ]
+exclude = [ "target*" , ".idea*"]
